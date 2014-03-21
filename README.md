@@ -7,6 +7,6 @@ Projekt zawiera zmiany dokonane w czasie wykładu względem repozytorium [KubaNe
 
 ***
 
-#### [GWT Articles: MVP Architecture](http://www.gwtproject.org/articles/mvp-architecture.html)
+#### [GWT Articles: MVP Architecture Part I](http://www.gwtproject.org/articles/mvp-architecture.html)
 
 ![GWT MVP Diagram](http://www.gwtproject.org/images/mvp_diagram.png)
